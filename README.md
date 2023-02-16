@@ -47,7 +47,7 @@ Com base na [Documentação Amazon Lex](https://compasso-my.sharepoint.com/:f:/g
 ## Entrega
 
 - Aceitar o convite do repositório da sprint-7-pb-aws-ifce;
-- **O trabalho deve ser feito em grupos de quatro pessoas**;
+- **O trabalho deve ser feito em Grupos de 3 ou 4 integrantes**;
   - Não repetir formação de grupos já criados em sprints anteriores;
 - Criar uma branch no repositório com o formato grupo-número (Exemplo: grupo-1);
 - Subir o trabalho na branch com um [Readme.md](README.md);
