@@ -34,10 +34,10 @@ Com base na [Documentação Amazon Lex](https://compasso-my.sharepoint.com/:f:/g
 - Projeto em produção na AWS;
 - Entendimento do chatbot e o que ele soluciona;
 - Criatividade em relação ao tema escolhido para o desenvolvimento do chatbot;
-- Intents e slots criados e informações que eles se dispôem a obter;
+- Intents e slots criados e informações que eles se dispõem a obter;
 - Organização:  
   - Estrutura de intenções;  
-  - Estrutura da logica de negócio;  
+  - Estrutura da lógica de negócio;  
   - Divisão de responsabilidades da equipe;  
   - Funcionalidade do chatbot;
 - Objetividade do README.md.
@@ -47,10 +47,10 @@ Com base na [Documentação Amazon Lex](https://compasso-my.sharepoint.com/:f:/g
 ## Entrega
 
 - Aceitar o convite do repositório da sprint-7-pb-aws-ifce;
-- **O trabalho deve ser feito em Grupos de 3 ou 4 integrantes**;
+- **O trabalho deve ser feito em grupos de 3 ou 4 integrantes**;
   - Não repetir formação de grupos já criados em sprints anteriores;
 - Criar uma branch no repositório com o formato grupo-número (Exemplo: grupo-1);
-- Subir o trabalho na branch com um [Readme.md](README.md);
+- Subir o trabalho na branch com um README.md;
   - Documentar detalhes sobre como a avaliação foi desenvolvida;
   - Dificuldades conhecidas;
   - Como utilizar o sistema;
