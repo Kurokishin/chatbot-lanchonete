@@ -56,3 +56,11 @@ Com base na [Documentação Amazon Lex](https://compasso-my.sharepoint.com/:f:/g
   - Como utilizar o sistema;
   - Export do bot Lex em formato .zip;
 - O prazo de entrega é até às 12h do dia 27/02/2023 no repositório do github ([https://github.com/Compass-pb-aws-2022-IFCE/sprint-7-pb-aws-ifce](https://github.com/Compass-pb-aws-2022-IFCE/sprint-7-pb-aws-ifce)).
+
+
+## Equipe
+
+- Luan Ferreira
+- Mylena Soares
+- Jhonnatan Gonçalves
+- Rafael Pereira
