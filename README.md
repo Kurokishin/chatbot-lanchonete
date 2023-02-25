@@ -90,11 +90,92 @@ como homologação e produção, que apontam para versões desejadas no bot. Int
 - O chatbot deve utilizar-se de menu com botões (Response Cards);
 - Tratamento de erros (fallback);
 
-###### Integração
+## Integração com Slack
 
-O chatbot está sendo na seguinte plataforma:
+O chatbot está sendo disponibilizado na seguinte plataforma:
   - Slack - [Conexão Slack](https://docs.aws.amazon.com/pt_br/lex/latest/dg/slack-bot-association.html);  
-    - detalhar...
+
+1 - Para realizar a integração, inicialmente criamos o bot conforme detalhado anteriormente 
+
+2 - Realizamos um  [cadastro na plataforma Slack](https://slack.com/intl/pt-br/)
+
+3 - Criamos a aplicação Slack na [Plataforma de Desenvolvedores](https://api.slack.com/)
+
+![criando app](https://user-images.githubusercontent.com/103221427/221373306-2c9fbdfb-9053-4b95-ba18-2a7318a94ada.png)
+
+4 - Definindo nome e configurações básicas para obtenção do token de verificação.
+
+![criando nome](https://user-images.githubusercontent.com/103221427/221375218-98172466-fe99-412b-a740-f1181595e718.png)
+
+![interatividade](https://user-images.githubusercontent.com/103221427/221375376-50dfb9a8-cae4-41eb-a0f4-f327c1bbcc5d.png)
+
+5 - Em sequência, no menu esquerdo consultamos os tokens disponibilizados através dos campos:
+
+> Settings > Basic Information
+
+6 - Realizando configuração no console da AWS
+
+![plataforma aws](https://user-images.githubusercontent.com/103221427/221376414-d09a9643-4540-4e0c-a513-2e1cd70fa6de.png)
+
+Atribuindo nome à integração e selecionando o alias do bot criado e o idioma utilizado
+
+![Config Integração](https://user-images.githubusercontent.com/103221427/221376543-25c118b4-3647-48b0-acbb-403268a34ebc.png)
+
+7 - Em seguida, deve-se preencher os campos indicados no menu de **Configuração adicional** com os tokens obtidos no passo 5 e clicar em **Adicionar**
+
+8 - Com o canal devidamente criado, selecione-o e anote o Endpoint e o Endpoint OAuth
+
+9 - Voltando a página do slack, no menu **OAuth & Permissions**, foram realizadas as seguintes modificações: 
+
+> **Redirect URLs** > Add New Redirect URL > Adicionar o Endpoint OAuth fornecido no passo 8
+
+> **Scopes** > Add an OAuth Scope > Adicionar: chat:write e team:read
+
+A página OAuth & Permissions deve ficar assim: 
+
+![url slack](https://user-images.githubusercontent.com/103221427/221377760-73fe9f38-6fb0-43d9-8f19-75400e816ea6.png)
+
+10 - Voltando ao menu **Interactivity e Shortcuts** devemos substituir a URL definida no passo 4 pelo Endpoint fornecido no console da AWS.
+
+11 - No menu **Event Subscriptions** foram realizadas as seguintes modificações:
+
+> **Enable Events** > Request URL > Adicionar o Endpoint fornecido no passo 8
+
+> **Subscribe to bot events** > Add bot User event > Adicionar: message.im
+
+A página Event Subscriptions deve ficar assim: 
+
+![final config](https://user-images.githubusercontent.com/103221427/221378247-eaf9c37c-85da-4c13-a91b-68267ef652cd.png)
+
+12 - Para finalizar no Menu **Manage Distribution em Settings** :
+> Clique em **Add to Slack**
+
+> Na solicitação de permissões selecione permitir
+
+> Selecione o app e na aba Mensagens comece a interagir com o bot!
+
+## Resultado da integração
+
+![resultado](https://user-images.githubusercontent.com/103221427/221378685-fdcdf354-a830-4ed2-940f-7796337a2233.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 - Facebook
     - detalhar
