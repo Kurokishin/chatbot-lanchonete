@@ -19,6 +19,8 @@ Avaliação da sétima sprint do programa de bolsas Compass UOL para formação 
 
 - [🤖 Estrutura do chatbot](#🤖-estrutura-do-chatbot)
 
+- [Slack](#integração-com-slack)
+
 - [🧑‍🤝‍🧑 Equipe](#🧑‍🤝‍🧑-equipe)
 
 - [😟 Impedimentos](#impedimentos)
@@ -146,6 +148,8 @@ A página Event Subscriptions deve ficar assim:
 
 ![resultado](https://user-images.githubusercontent.com/103221427/221378685-fdcdf354-a830-4ed2-940f-7796337a2233.png)
 
+O projeto pode ser acessado por este [link](https://join.slack.com/t/equipe1-pbcompass/shared_invite/zt-1px13neg5-y1DZNGcReDflShTsZnQQYg).
+
 <hr>
 
 ## 🧑‍🤝‍🧑 Equipe
@@ -182,8 +186,8 @@ De modo geral, consideramos o projeto de chatbot Lex V2 integrado com Slack e Fa
 
 ### Criação do bot
 
-O passo a passo para a criação de um bot no Lex está [aqui]().
+O passo a passo para a criação de um bot no Lex está [aqui](https://github.com/Compass-pb-aws-2022-IFCE/sprint-7-pb-aws-ifce/tree/Grupo-1/Instru%C3%A7%C3%B5es%20adicionais/Cria%C3%A7%C3%A3o%20de%20bots).
 
 ### Facebook Messenger
 
-As instruções para realizar a conexão do Facebook com o bot Lex está detalhada [aqui](https://github.com/Compass-pb-aws-2022-IFCE/sprint-7-pb-aws-ifce/tree/Grupo-1/).
+As instruções para realizar a conexão do Facebook com o bot Lex está detalhada [aqui](https://github.com/Compass-pb-aws-2022-IFCE/sprint-7-pb-aws-ifce/tree/Grupo-1/Instru%C3%A7%C3%B5es%20adicionais/Integra%C3%A7%C3%A3o%20Lex%20bot%20com%20Facebook%20%20Messenger).
