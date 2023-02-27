@@ -14,9 +14,9 @@ Avaliação da sétima sprint do programa de bolsas Compass.uol para formação 
 
 - [🧾 Descrição do projeto](#-descrição-do-projeto)
 
-- [⚙️ Ferramentas e Tecnologias](#-ferramentas-e-tecnologias)
+- [⚙️ Ferramentas e Tecnologias](#%EF%B8%8F-ferramentas-e-tecnologias)
 
-- [📝 Requisitos e Execução](#%EF%B8%8F-código)
+- [📝 Requisitos e Execução](#-requisitos-e-execuçãohands-on)
 
 - [♾️ Equipe](#%EF%B8%8F-equipe)
 
@@ -33,7 +33,8 @@ A funcionalidade faz analogia ao atendimento online aos interessados nos salgado
 
 ## ⚙️ Ferramentas e Tecnologias 
 
-<a href="https://aws.amazon.com/pt/" target="_blank"> <img src="https://imgs.search.brave.com/GMxBwk4HNqhFJEmYkqXOW8kelyHphegTgfv8jGX3E3M/rs:fit:1200:1197:1/g:ce/aHR0cHM6Ly9naXN1/c2VyLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAxOC8wOC8y/MDAwcHgtQW1hem9u/X1dlYl9TZXJ2aWNl/c19Mb2dvLnN2Z18u/cG5n" alt="aws" width="40" height="40" title="AWS"/> </a><a href="https://docs.aws.amazon.com/pt_br/lexv2/latest/dg/what-is.html" target="_blank"> <img src="https://imgs.search.brave.com/bVZ4uQWr-3duPfutx8MysuJr104Mk89zeMApyYVzVjg/rs:fit:300:300:1/g:ce/aHR0cHM6Ly9zeW1i/b2xzLmdldHZlY3Rh/LmNvbS9zdGVuY2ls/XzcvM19hbWF6b24t/cmVrb2duaXRpb24u/NmFkOGEzYzFiOC5w/bmc" alt="firebase" width="40" height="40" title="AWS LexV2"/> </a> <a href="https://slack.com/intl/pt-br/media-kit" target="_blank"> <img src="https://imgs.search.brave.com/eEl2VJx5Re6JoRirC111bGSvKYC2Hj0Hltdn26O5pbA/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jZG4u/ZnJlZWJpZXN1cHBs/eS5jb20vbG9nb3Mv/bGFyZ2UvMngvc2xh/Y2stMS1sb2dvLXBu/Zy10cmFuc3BhcmVu/dC5wbmc" alt="firebase" width="40" height="40" title="AWS Lambda"/> </a>
+<a href="https://aws.amazon.com/pt/" target="_blank"> <img src="https://imgs.search.brave.com/GMxBwk4HNqhFJEmYkqXOW8kelyHphegTgfv8jGX3E3M/rs:fit:1200:1197:1/g:ce/aHR0cHM6Ly9naXN1/c2VyLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAxOC8wOC8y/MDAwcHgtQW1hem9u/X1dlYl9TZXJ2aWNl/c19Mb2dvLnN2Z18u/cG5n" alt="aws" width="40" height="40" title="AWS"/> </a><a href="https://docs.aws.amazon.com/pt_br/lexv2/latest/dg/what-is.html" target="_blank"> <img src="https://imgs.search.brave.com/bVZ4uQWr-3duPfutx8MysuJr104Mk89zeMApyYVzVjg/rs:fit:300:300:1/g:ce/aHR0cHM6Ly9zeW1i/b2xzLmdldHZlY3Rh/LmNvbS9zdGVuY2ls/XzcvM19hbWF6b24t/cmVrb2duaXRpb24u/NmFkOGEzYzFiOC5w/bmc" alt="firebase" width="40" height="40" title="AWS LexV2"/> </a> <a href="https://slack.com/intl/pt-br/media-kit" target="_blank"> <img src="https://imgs.search.brave.com/eEl2VJx5Re6JoRirC111bGSvKYC2Hj0Hltdn26O5pbA/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jZG4u/ZnJlZWJpZXN1cHBs/eS5jb20vbG9nb3Mv/bGFyZ2UvMngvc2xh/Y2stMS1sb2dvLXBu/Zy10cmFuc3BhcmVu/dC5wbmc" alt="firebase" width="40" height="40" title="Slack"/> </a><a href="https://developers.facebook.com/products/" target="_blank"> <img src="https://imgs.search.brave.com/Lm3QSaaOMnI19WcTOtDADCI5Z6ZaTeujhZrHElNP6co/rs:fit:650:240:1/g:ce/aHR0cDovL3d3dy5h/cnRpdC1rLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxNC8w/OS9GYWNlYm9vay1E/ZXZlbG9wZXJzLUxv/Z28ucG5n" alt="firebase"  height="40" title="Slack"/> </a> 
+
 
 <hr>
 
@@ -65,7 +66,7 @@ Na raia “IAM permissions”, selecione a opção “Create a role with basic A
 ![3](https://user-images.githubusercontent.com/94761781/221339200-bfb74b51-9bae-494a-bcf9-f1aca4f62b26.png)
 
 7 - Criadas Itens, pode-se prosseguir com a exploração da aba lateral
-![4](https://user-images.githubusercontent.com/94761781/221339201-189f750d-fad3-4dfe-a30a-3c7659d4fdfc.png)
+<img src="https://user-images.githubusercontent.com/94761781/221339201-189f750d-fad3-4dfe-a30a-3c7659d4fdfc.png" width="140">
 ``` Bot versions ```
  Possibilita o versionamento e controle de versões do bot.
 ```Idioma```
@@ -78,19 +79,9 @@ como homologação e produção, que apontam para versões desejadas no bot. Int
 8 - Sobre os Slots, observa-se os seguintes desenvolvidos para entrega desse chatbot
 ![5](https://user-images.githubusercontent.com/94761781/221339426-67b25a8b-ca9b-4e78-9399-f8027cf8add2.png)
 
-*** observar integração ***
-- Construção:   
-  - Intents:    
-    - lista de itents
-  - Slots:    
-    - Captação de informações presentes no texto;    
-    - Solicitação de informações quando o slot não for reconhecido;    
-    - Confirmação de informações;    
-    - O chatbot deve captar ao menos 3 slots no decorrer do fluxo;
-- O chatbot deve utilizar-se de menu com botões (Response Cards);
-- Tratamento de erros (fallback);
 
-## Integração com Slack
+#### Integração com Slack <a href="https://slack.com/intl/pt-br/media-kit" target="_blank"> <img src="https://imgs.search.brave.com/eEl2VJx5Re6JoRirC111bGSvKYC2Hj0Hltdn26O5pbA/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jZG4u/ZnJlZWJpZXN1cHBs/eS5jb20vbG9nb3Mv/bGFyZ2UvMngvc2xh/Y2stMS1sb2dvLXBu/Zy10cmFuc3BhcmVu/dC5wbmc" alt="firebase" width="15" height="15" title="Slack"/> </a>
+
 
 O chatbot está sendo disponibilizado na seguinte plataforma:
   - Slack - [Conexão Slack](https://docs.aws.amazon.com/pt_br/lex/latest/dg/slack-bot-association.html);  
@@ -154,31 +145,70 @@ A página Event Subscriptions deve ficar assim:
 
 > Selecione o app e na aba Mensagens comece a interagir com o bot!
 
-## Resultado da integração
+##### Resultado da integração
 
 ![resultado](https://user-images.githubusercontent.com/103221427/221378685-fdcdf354-a830-4ed2-940f-7796337a2233.png)
 
 
+#### Integração com <a href="https://developers.facebook.com/products/" target="_blank"> <img src="https://imgs.search.brave.com/Lm3QSaaOMnI19WcTOtDADCI5Z6ZaTeujhZrHElNP6co/rs:fit:650:240:1/g:ce/aHR0cDovL3d3dy5h/cnRpdC1rLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxNC8w/OS9GYWNlYm9vay1E/ZXZlbG9wZXJzLUxv/Z28ucG5n" alt="firebase" width="100" height="50" title="Slack"/> </a> 
+
+Para integrar o bot criado no Amazon Lex V2 ao Facebook Messenger, você precisa seguir os seguintes passos:
+
+1 - Crie um aplicativo no Facebook for Developers e adicione o Facebook Messenger como uma plataforma de produto.
+
+- Acesse o site do Facebook for Developers em https://developers.facebook.com/ e faça login com sua conta do Facebook.
+![01](https://user-images.githubusercontent.com/94761781/221447434-bafcc3c3-3b17-43fa-bf48-daa7876a93d5.png)
+
+- Clique em "Meus Aplicativos" no canto superior direito da página e na sequência selecione "Criar Aplicativo".
+![02](https://user-images.githubusercontent.com/94761781/221447439-ebbe9ba9-96c1-45a5-9222-96abbb1f4214.png)
+
+- Selecione um tipo para sua Aplicação, clique em "Avançar" e digite um nome para o seu aplicativo. 
+
+![03](https://user-images.githubusercontent.com/94761781/221447440-e288cb08-0efd-4c27-8756-08f564ed1a18.png)
+![04](https://user-images.githubusercontent.com/94761781/221447442-c176def0-6cb2-4029-8da2-1e159c3bf98e.png)
+    - não selecione a página agora, crie assim para ter mais disposição de serviços 
+
+- Na página de inicial do aplicativo, seção de "Adicionar Produtos ao seu Aplicativo", localize e clique em "configurar" para adicionar a sua página e gerar o Token
+
+    ![05](https://user-images.githubusercontent.com/94761781/221447444-27520eb5-6313-4721-8748-0cf6a658e9d3.png)
+
+   Essa opção só irá aparecer se na criação do aplicativo você não selecioinar nem uma Página, pois assim terá mais privilégios sobre os serviços
+
+- Na página de configuração do Messenger, selecione a página do Facebook que você deseja associar ao bot e clique em "Gerar Token de Acesso à Página".
+
+![07](https://user-images.githubusercontent.com/94761781/221447453-4b9bc14a-3602-44ea-9c51-65dee49bd8ab.png)
+![07 1](https://user-images.githubusercontent.com/94761781/221447450-2ead2a72-ec85-4b28-a22e-fc22feb21223.png)
+
+
+    - Copie o token gerado e guarde-o em um local seguro.
+
+
+2 - Configure o webhook do aplicativo do Facebook para apontar para o endpoint do Amazon Lex V2. Para fazer isso, você precisará fornecer a URL do endpoint do Amazon Lex V2 e um token de verificação.
+
+- Na seção "Webhooks" da página de configuração do Messenger, clique em "Configurar Webhooks" e insira a URL do endpoint do Amazon Lex V2.
+![08 00](https://user-images.githubusercontent.com/94761781/221447456-ddf7342b-3e80-4a9c-962b-a6eca0c9840e.png)
+***ESSE TOKEN DE VERIFICAÇÃO É O ALIAS DA CRIAÇÃO DO ENDPOINT***
+
+      - se ainda não houver endpoint vá na console em
+      Lex > Bots  > Bot: MegaLanches > Channel integrations > Add channel  
+      Selecione o Facebook e configure
+   ![08 1](https://user-images.githubusercontent.com/94761781/221447459-604ddf77-9590-42ae-a9a7-f2245ed91d96.png)
+   ![08 2](https://user-images.githubusercontent.com/94761781/221447460-66438245-10b8-4933-9b75-481be74f2b6e.png)
+   ***App Secrret Key*** é chave secreta que está em configurações > básico
+   ***Page Acess Token*** é o Token gerado na página
+
+
+  ![08 4](https://user-images.githubusercontent.com/94761781/221447462-2028776a-d1da-4e1a-a92f-26bd9f2b8fbf.png)
+- Selecione as opções de assinatura de eventos que você deseja receber e clique em "Verificar e Salvar".
+
+3 - Teste o bot no Facebook Messenger.  
+  -    <img src="https://user-images.githubusercontent.com/94761781/221450105-6c31b2c9-a41a-4bd6-b1e8-7cfedc87b506.jpeg" width="200">
+
+Acesse a página: https://www.facebook.com/profile.php?id=100089482627701&mibextid=ZbWKwL
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- Facebook
-    - detalhar
+[Link detalhado da integração do Faceboook ao Lex](https://docs.aws.amazon.com/lex/latest/dg/fb-bot-association.html)
 
 ***
 - (Opcional) Uso de conditional branching para controle de fluxos ([Doc Conditional Branching](https://docs.aws.amazon.com/pt_br/lexv2/latest/dg/paths-branching.html));
@@ -194,9 +224,20 @@ A página Event Subscriptions deve ficar assim:
 <hr>
 
 ## 📌 Considerações Finais
-  - Documentar detalhes sobre como a avaliação foi desenvolvida;
-  - Dificuldades conhecidas;
+Desenvolver um chatbot Lex V2 integrado com Slack e Facebook Messenger nos apresentou alguns desafios. 
+- Configuração: Configurar corretamente o bot no Amazon Lex, Slack e Facebook Messenger, dado que se deve seguir cuidadosamente as documentações e guias disponíveis para garantir que tudo esteja configurado corretamente.
 
+- Teste e Ajuste: Testar e ajustar o bot para garantir que ele esteja funcionando corretamente pode levar tempo. É importante testar o bot em diferentes cenários para identificar problemas e ajustar suas respostas de acordo.
+
+De modo geral, consideramos o projeto de chatbot Lex V2 integrado com Slack e Facebook Messenger incluindo os seguintes eixos de ênfase:
+
+- Foco no usuário: É importante focar na experiência do usuário ao desenvolver o chatbot. Isso significa entender as necessidades dos usuários e projetar o bot para atender a essas necessidades de maneira eficaz...
+
+- Monitoramento contínuo: É importante monitorar continuamente o chatbot para identificar problemas e oportunidades de melhoria. Isso pode envolver análise de dados e feedback dos usuários.
+
+- Iteração constante: O desenvolvimento de chatbot é um processo contínuo e iterativo. É importante estar disposto a fazer ajustes e melhorias no bot com base em feedback e análise contínuos. considerações finais para um projeto de desenvolvimento de chatbot Lex V2 integrado com Slack e Facebook Messenger incluem:
+
+O Programa de Bolsas é muito proveitoso e vem proporcionando cada vez mais novas experiências e skills, assim como evidenciado nesse documento, foi mais uma das excelentes abordagens avaliativas da equipe Compass Uol
 <hr>
 
 
