@@ -19,15 +19,15 @@ Avaliação da sétima sprint do programa de bolsas Compass UOL para formação 
 
 - [🤖 Estrutura do chatbot](#🤖-estrutura-do-chatbot)
 
-- [Slack](#integração-com-slack)
+- [🔌 Integração com Slack](#🔌-integração-com-slack)
 
-- [🧑‍🤝‍🧑 Equipe](#🧑‍🤝‍🧑-equipe)
-
-- [😟 Impedimentos](#impedimentos)
+- [😟 Impedimentos](#😟-impedimentos)
 
 - [📌 Considerações finais](#📌-considerações-finais)
 
 - [📝 Informações adicionais](#informações-adicionais)
+
+- [🧑‍🤝‍🧑 Equipe](#🧑‍🤝‍🧑-equipe)
 
 <hr>
 
@@ -79,8 +79,7 @@ A funcionalidade do bot faz analogia ao atendimento online de uma fábrica de sa
 
 <hr>
 
-### Integração com Slack <a href="https://slack.com/intl/pt-br/media-kit" target="_blank"> <img src="https://imgs.search.brave.com/eEl2VJx5Re6JoRirC111bGSvKYC2Hj0Hltdn26O5pbA/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jZG4u/ZnJlZWJpZXN1cHBs/eS5jb20vbG9nb3Mv/bGFyZ2UvMngvc2xh/Y2stMS1sb2dvLXBu/Zy10cmFuc3BhcmVu/dC5wbmc" alt="firebase" width="15" height="15" title="Slack"/> </a>
-
+## 🔌 Integração com Slack 
 
 O chatbot está sendo disponibilizado na seguinte plataforma:
   - Slack - [Conexão Slack](https://docs.aws.amazon.com/pt_br/lex/latest/dg/slack-bot-association.html);  
@@ -150,27 +149,21 @@ A página Event Subscriptions deve ficar assim:
 
 O projeto pode ser acessado por este [link](https://join.slack.com/t/equipe1-pbcompass/shared_invite/zt-1px13neg5-y1DZNGcReDflShTsZnQQYg).
 
-<hr>
 
-## 🧑‍🤝‍🧑 Equipe
-- Luan Ferreira
-- Mylena Soares
-- Jhonnatan Gonçalves
-- Rafael Pereira
 
 <hr>
 
 ## 😟 Impedimentos
-
+Desenvolver um chatbot Lex V2 integrado com Slack e Facebook Messenger nos apresentou alguns desafios. 
+- Configuração: Configurar corretamente o bot no Amazon Lex, Slack e Facebook Messenger, dado que se deve seguir cuidadosamente as documentações e guias disponíveis para garantir que tudo esteja configurado corretamente.
+- Teste e Ajuste: Testar e ajustar o bot para garantir que ele esteja funcionando corretamente pode levar tempo. É importante testar o bot em diferentes cenários para identificar problemas e ajustar suas respostas de acordo.
 - Utilização de *lambdas*.
+- Diferenças nas documentações do slack e do amazon lex para as versões atuais: Solucionado com estudo e pesquisa das ferramentas.
 
 ***
 
 ## 📌 Considerações Finais
-Desenvolver um chatbot Lex V2 integrado com Slack e Facebook Messenger nos apresentou alguns desafios. 
-- Configuração: Configurar corretamente o bot no Amazon Lex, Slack e Facebook Messenger, dado que se deve seguir cuidadosamente as documentações e guias disponíveis para garantir que tudo esteja configurado corretamente.
 
-- Teste e Ajuste: Testar e ajustar o bot para garantir que ele esteja funcionando corretamente pode levar tempo. É importante testar o bot em diferentes cenários para identificar problemas e ajustar suas respostas de acordo.
 
 De modo geral, consideramos o projeto de chatbot Lex V2 integrado com Slack e Facebook Messenger incluindo os seguintes eixos de ênfase:
 
@@ -191,3 +184,12 @@ O passo a passo para a criação de um bot no Lex está [aqui](https://github.co
 ### Facebook Messenger
 
 As instruções para realizar a conexão do Facebook com o bot Lex está detalhada [aqui](https://github.com/Compass-pb-aws-2022-IFCE/sprint-7-pb-aws-ifce/tree/Grupo-1/Instru%C3%A7%C3%B5es%20adicionais/Integra%C3%A7%C3%A3o%20Lex%20bot%20com%20Facebook%20%20Messenger).
+
+<hr>
+
+## 🧑‍🤝‍🧑 Equipe
+
+- [Luan Ferreira](https://github.com/fluanbrito)
+- [Mylena Soares](https://github.com/mylensoares)
+- [Jhonnatan Gonçalves](https://github.com/jhonatangoncalvespereira)
+- [Rafael Pereira](https://github.com/Kurokishin)
