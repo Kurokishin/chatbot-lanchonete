@@ -11,23 +11,23 @@ Avaliação da sétima sprint do programa de bolsas Compass UOL para formação 
   
 ## Tópicos 
 
-- [🧾 Descrição do projeto](#🧾-descrição-do-projeto)
+- [🧾 Descrição do projeto](#-descrição-do-projeto)
 
-- [⚙️ Ferramentas e tecnologias](#⚙️-ferramentas-e-tecnologias)
+- [⚙️ Ferramentas e tecnologias](#⚙-ferramentas-e-tecnologias)
 
-- [📝 Requisitos](#📝-requisitos)
+- [📝 Requisitos](#-requisitos)
 
-- [🤖 Estrutura do chatbot](#🤖-estrutura-do-chatbot)
+- [🤖 Estrutura do chatbot](#-estrutura-do-chatbot)
 
-- [🔌 Integração com Slack](#🔌-integração-com-slack)
+- [🔌 Integração com Slack](#-integração-com-slack)
 
-- [😟 Impedimentos](#😟-impedimentos)
+- [😟 Impedimentos](#-impedimentos)
 
-- [📌 Considerações finais](#📌-considerações-finais)
+- [📌 Considerações finais](#-considerações-finais)
 
-- [📝 Informações adicionais](#📝-informações-adicionais)
+- [📝 Informações adicionais](#-informações-adicionais)
 
-- [🧑‍🤝‍🧑 Equipe](#🧑‍🤝‍🧑-equipe)
+- [🧑‍🤝‍🧑 Equipe](#-equipe)
 
 <hr>
 
