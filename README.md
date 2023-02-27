@@ -25,7 +25,7 @@ Avaliação da sétima sprint do programa de bolsas Compass UOL para formação 
 
 - [📌 Considerações finais](#📌-considerações-finais)
 
-- [📝 Informações adicionais](#informações-adicionais)
+- [📝 Informações adicionais](#📝-informações-adicionais)
 
 - [🧑‍🤝‍🧑 Equipe](#🧑‍🤝‍🧑-equipe)
 
@@ -175,7 +175,7 @@ De modo geral, consideramos o projeto de chatbot Lex V2 integrado com Slack e Fa
 
 <hr>
 
-## Informações adicionais
+## 📝 Informações adicionais
 
 ### Criação do bot
 
